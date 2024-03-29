@@ -2,9 +2,7 @@
 - 👀 I’m interested in Full stack Development and Animation.
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on tasks requiring problem solving, creativity.
-- 📫 How to reach me inkedin.com/in/kidist-berhanu
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me linkedin.com/in/kidist-berhanu-90bba0292
 
 <!---
 kidist-berhanu/kidist-berhanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
